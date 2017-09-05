@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Rebecca Hayden, Assignment 1, Part 1"""
+"""Assignment 1, Part 1"""
 
 def listDivide(numbers, divide=2):
     """This function takes a list of numbers and divides by the divide parameter
